@@ -3,7 +3,7 @@
 ##Overview
 Use TensorFlow to generate short sequences of music lyrics with a LSTM .
 
-##Dependencies
+## Dependencies
 
 * pandas
 * numpy
@@ -13,7 +13,7 @@ Use TensorFlow to generate short sequences of music lyrics with a LSTM .
 
 Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
-##Result when trained on EdSheeran's songs
+## Result when trained on EdSheeran's songs
 
 go all you can eat
 Fill up your bag and should crooving of my way oh the way
