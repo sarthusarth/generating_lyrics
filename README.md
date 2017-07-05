@@ -1,6 +1,6 @@
 # Music Generator
 
-##Overview
+## Overview
 Use TensorFlow to generate short sequences of music lyrics with a LSTM .
 
 ## Dependencies
