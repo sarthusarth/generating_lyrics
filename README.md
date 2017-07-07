@@ -15,4 +15,4 @@ Use TensorFlow to generate short sequences of music lyrics with a LSTM .
 Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
 ## Result when trained on EdSheeran's songs
-<img source='songs.jpeg'></img>
+<img src='songs.jpeg'></img>
