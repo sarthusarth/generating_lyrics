@@ -2,7 +2,10 @@
 
 Checkout my [blog](https://isarth.github.io/charRNN.html) for understanding stepwise
 ## Overview
-Use TensorFlow to generate short sequences of music lyrics with a LSTM .
+Using TensorFlow to generate short sequences of music lyrics with a LSTM .
+<p align='center'>
+  <img src='workflow.png'>
+</p>
 
 ## Dependencies
 
@@ -14,6 +17,6 @@ Use TensorFlow to generate short sequences of music lyrics with a LSTM .
 Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
 ### Result when trained on EdSheeran's songs
-<p >
+<p align='center'>
   <img src="song.jpeg">
 </p>
